@@ -191,6 +191,16 @@ body{
 .links-grid a{
 	flex: 0 1 auto;
 	text-align: center;
+}.logos-grid{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	gap: 2rem;
+	padding-top: 2rem;
+}
+.logos-grid a{
+	flex: 0 1 auto;
+	text-align: center;
 }
 .badge-grid{
 	display: flex;
