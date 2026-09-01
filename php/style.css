@@ -196,7 +196,6 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 	gap: 2rem;
-	padding-top: 2rem;
 }
 .logos-grid a{
 	flex: 0 1 auto;
@@ -228,6 +227,7 @@ body{
 }
 .badge-logo{
 	max-height: 2rem;
+	padding-top: 2rem;
 }
 .thumb-rect{
 	max-width: 300px;
