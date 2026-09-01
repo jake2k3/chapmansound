@@ -225,9 +225,12 @@ body{
 .badge-sqr{
 	max-width: 131px;
 }
-.badge-logo{
+.badge-github{
 	max-height: 2rem;
-	padding-top: 2rem;
+	padding-top: 2.125rem;
+}.badge-linkedin{
+	max-height: 2rem;
+	padding-top: 1.625rem;
 }
 .thumb-rect{
 	max-width: 300px;

@@ -54,10 +54,10 @@
 
 		<div class="logos-grid">
 			<a href='https://www.github.com/jake2k3' target='_blank'>
-				<img src='/php/images/logo-github.png' class="badge-logo" alt='My GitHub Profile'>
+				<img src='/php/images/logo-github.png' class="badge-github" alt='My GitHub Profile'>
 			</a>
 			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank'>
-				<img src='/php/images/logo-linkedin.png' class="badge-logo" alt='My LinkedIn Profile'>
+				<img src='/php/images/logo-linkedin.png' class="badge-linkedin" alt='My LinkedIn Profile'>
 			</a>
 		</div>
 
