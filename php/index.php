@@ -53,11 +53,11 @@
 		</div>
 
 		<div class="links-grid">
-			<a href='https://www.github.com/jake2k3' target='_blank' class="big-links badge-logo">
-				<img src='/php/images/logo-github.png' alt='My GitHub Profile'>
+			<a href='https://www.github.com/jake2k3' target='_blank' class="big-links">
+				<img src='/php/images/logo-github.png' class="badge-logo" alt='My GitHub Profile'>
 			</a>
-			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank' class="big-links badge-logo">
-				<img src='/php/images/logo-linkedin.png' alt='My LinkedIn Profile'>
+			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank' class="big-links">
+				<img src='/php/images/logo-linkedin.png' class="badge-logo" alt='My LinkedIn Profile'>
 			</a>
 		</div>
 
