@@ -52,11 +52,11 @@
 			<a href='docs/chapmanResume20260725.pdf' target='_blank' class="big-links">My Résumé</a>
 		</div>
 
-		<div class="links-grid">
-			<a href='https://www.github.com/jake2k3' target='_blank' class="big-links">
+		<div class="links-grid big-links">
+			<a href='https://www.github.com/jake2k3' target='_blank'>
 				<img src='/php/images/logo-github.png' class="badge-logo" alt='My GitHub Profile'>
 			</a>
-			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank' class="big-links">
+			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank'>
 				<img src='/php/images/logo-linkedin.png' class="badge-logo" alt='My LinkedIn Profile'>
 			</a>
 		</div>
