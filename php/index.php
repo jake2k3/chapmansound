@@ -51,13 +51,13 @@
 			<a href='/php/portfolio.php' class="big-links">Portfolio</a>
 			<a href='docs/chapmanResume20260725.pdf' target='_blank' class="big-links">My Résumé</a>
 		</div>
-
+		
 		<div class="logos-grid">
-			<a href='https://www.github.com/jake2k3' target='_blank'>
-				<img src='/php/images/logo-github.png' class="badge-github" alt='My GitHub Profile'>
+			<a href='https://www.github.com/jake2k3' class="badge-logo" target='_blank'>
+				<img src='/php/images/logo-github.png' alt='My GitHub Profile'>
 			</a>
-			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' target='_blank'>
-				<img src='/php/images/logo-linkedin.png' class="badge-linkedin" alt='My LinkedIn Profile'>
+			<a href='https://www.linkedin.com/in/jacob-chapman-30a60a60/' class="badge-logo" target='_blank'>
+				<img src='/php/images/logo-linkedin.png' alt='My LinkedIn Profile'>
 			</a>
 		</div>
 
