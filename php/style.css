@@ -196,7 +196,7 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 	gap: 2rem;
-	padding-top: 0.5rem;
+	padding-top: 2rem;
 }
 .logos-grid a{
 	flex: 0 1 auto;
@@ -330,10 +330,16 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 	font-size: 1.4rem;
 	}
 	
-	.links-grid, .logos-grid{
+	.links-grid{
 		flex-direction: column;
 		flex-wrap: nowrap;
 		gap: 0.75rem;
+	}
+	.logos-grid{
+		flex-direction: column;
+		flex-wrap: nowrap;
+		gap: 0.75rem;
+		padding-top: 0.5rem;
 	}
 
 	.badge-grid{
