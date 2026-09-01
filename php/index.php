@@ -52,7 +52,7 @@
 			<a href='docs/chapmanResume20260725.pdf' target='_blank' class="big-links">My Résumé</a>
 		</div>
 
-		<div class="links-grid big-links">
+		<div class="logos-grid">
 			<a href='https://www.github.com/jake2k3' target='_blank'>
 				<img src='/php/images/logo-github.png' class="badge-logo" alt='My GitHub Profile'>
 			</a>
