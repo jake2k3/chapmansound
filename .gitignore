@@ -16,3 +16,6 @@
 .history
 *.vsix
 .ionide
+
+### Large Files
+*.wav
