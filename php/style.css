@@ -503,6 +503,10 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 		width: min(960px, calc(100% - 0.5rem));
 	}
 
+	.testimonial-credit-video {
+		margin: 0.5rem;
+	}
+
 	.experience-dates{
 		font-size: 1.4rem;
 	}
@@ -553,6 +557,10 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 
 	.testimonial-slide {
 		padding: 2rem 1.25rem 1.25rem;
+	}
+
+	.video-slide {
+		padding: 0rem 0rem;
 	}
 
 	.carousel-controls label {
