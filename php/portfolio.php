@@ -169,12 +169,14 @@
 							<iframe src="https://player.vimeo.com/video/487021032?h=9284f4ae4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player" title="FBC Decatur Virtual Choir & Orchestra - God Rest Ye Merry Gentlemen">
 							</iframe>
 						</div>
+						<p class="testimonial-credit-video">Audio mixed in Reaper, video edited in Adobe Premiere Pro</p>
 					</article>
 					<article class="testimonial-slide video-slide video-slide-two">
 						<div class="video-wrapper">
 							<iframe src="https://player.vimeo.com/video/489951901?h=bb70d5eb9e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player" title="FBC Decatur Virtual Choir & Orchestra - Carol of the Bells">
 							</iframe>
 						</div>
+						<p class="testimonial-credit-video">Audio mixed in Reaper, video edited in Adobe Premiere Pro</p>
 					</article>
 				</div>
 
@@ -202,14 +204,14 @@
 							<iframe class="video-player" src="https://www.youtube.com/embed/G4ZQ-bCVFuo" title="A Mighty Fortress Is Our God — Solo Pipe Organ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 							</iframe>
 						</div>
-						<p class="testimonial-credit">Recorded with a stereo matched pair of AKG C414B-ULS condenser microphones</p>
+						<p class="testimonial-credit-video">Recorded with a stereo matched pair of AKG C414B-ULS condenser microphones</p>
 					</article>
 					<article class="testimonial-slide video-slide video-slide-two">
 						<div class="video-wrapper">
 							<iframe class="video-player" src="https://www.youtube.com/embed/zM0fG4VHKG8" title="Come Thou Fount of Every Blessing — FBC Decatur Worship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 							</iframe>
 						</div>
-						<p class="testimonial-credit">Recorded with an Ear Trumpet Labs Myrtle condenser microphone</p>
+						<p class="testimonial-credit-video">Recorded with an Ear Trumpet Labs Myrtle condenser microphone</p>
 					</article>
 				</div>
 
