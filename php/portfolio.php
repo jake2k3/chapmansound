@@ -91,7 +91,6 @@
 			<section class="portfolio-showcase" aria-labelledby="testimonial-title">
 				<div class="showcase-heading">
 					<p class="eyebrow">Client Feedback</p>
-					<h2 id="testimonial-title">Good work should sound like trust.</h2>
 				</div>
 
 				<div class="testimonial-carousel">
@@ -123,11 +122,11 @@
 
 				<div class="audio-feature">
 					<div>
-						<p class="eyebrow">Example of Work (Testimonial #1)</p>
-						<h3>From Testimonial #1</h3>
+						<p class="eyebrow">Example of Work</p>
+						<h3>Voiceover Editing</h3>
 					</div>
 					<audio controls preload="metadata">
-						<source src="audio/youveBeenLiedTo.wav" type="audio/mpeg">
+						<source src="audio/youveBeenLiedTo.mp3" type="audio/mpeg">
 						Your browser does not support the audio player.
 					</audio>
 				</div>
