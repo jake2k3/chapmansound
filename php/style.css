@@ -274,7 +274,8 @@ body{
 
 .testimonial-carousel input {
 	position: absolute;
-	top: -9999px;
+	top: 0;
+	left: -9999px;
 }
 
 .testimonial-slides {
