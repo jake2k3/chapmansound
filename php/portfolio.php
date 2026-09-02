@@ -123,7 +123,8 @@
 				<div class="audio-feature">
 					<div>
 						<p class="eyebrow">Example of Work</p>
-						<h3>Voiceover Editing</h3>
+						<h3>Testimonial #1: Voiceover Editing</h3>
+						<p class="experience-body">Edited in Adobe Audition.</p>
 					</div>
 					<audio controls preload="metadata">
 						<source src="audio/youveBeenLiedTo.mp3" type="audio/mpeg">
