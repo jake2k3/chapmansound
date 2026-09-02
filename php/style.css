@@ -499,6 +499,10 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 		font-size: 1.4rem; 
 	}
 	
+	.portfolio-showcase {
+		margin: 0rem auto 1rem;
+	}
+
 	.experience-dates{
 		font-size: 1.4rem;
 	}
