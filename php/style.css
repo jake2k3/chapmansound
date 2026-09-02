@@ -240,12 +240,11 @@ body{
 
 .portfolio-showcase {
 	width: min(960px, calc(100% - 2rem));
-	margin: 4rem auto 2rem;
+	margin: 0rem auto 2rem;
 	text-align: left;
 }
 
 .showcase-heading {
-	max-width: 34rem;
 	margin-bottom: 1.5rem;
 }
 
@@ -441,7 +440,7 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 	}
 	
 	.site-header{
-	padding-bottom: 0rem;
+		padding-bottom: 0rem;
 	}
 	
 	.big-name{
@@ -462,15 +461,15 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 	}
 	
 	.page-title {
-	font-size: 1.75rem; 
+		font-size: 1.75rem; 
 	}
 	
 	.section-title {
-	font-size: 1.4rem; 
+		font-size: 1.4rem; 
 	}
 	
 	.experience-dates{
-	font-size: 1.4rem;
+		font-size: 1.4rem;
 	}
 	
 	.links-grid{
@@ -490,11 +489,11 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 	}
 	
 	.badge-rect{
-	max-width: 150px;
+		max-width: 150px;
 	}
 	
 	.badge-sqr{
-	max-width: 89px;
+		max-width: 89px;
 	}
 	
 	.logo-camp{
@@ -515,10 +514,6 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 
 	.little-name {
 		font-size: 1.1rem;
-	}
-
-	.portfolio-showcase {
-		margin-top: 3rem;
 	}
 
 	.testimonial-slide {
