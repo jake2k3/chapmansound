@@ -218,7 +218,9 @@ body{
 	display: inline-block;
 	max-width: 100%;
 	height: auto;
-	hover: opacity: 0.9;
+}
+.badge-item:hover {
+	opacity: 0.9;
 }
 .badge-rect{
 	max-width: 220px;
@@ -273,7 +275,7 @@ body{
 
 .testimonial-carousel input {
 	position: absolute;
-	op: -9999px;
+	top: -9999px;
 }
 
 .testimonial-slides {

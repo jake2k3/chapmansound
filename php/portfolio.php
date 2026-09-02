@@ -104,12 +104,12 @@
 							<p class="testimonial-credit">Upwork Client testimonial <span>Voiceover Editing</span></p>
 						</article>
 						<article class="testimonial-slide testimonial-slide-two">
-							<blockquote>"Jacob fixed the audio issues that other freelancers couldn't and then went the extra mile. Skills and excellence. That's what I was looking for - Jacob delivered."</blockquote>
-							<p class="testimonial-credit">Upwork Client testimonial <span>Dialog Cleanup</span></p>
-						</article>
-						<article class="testimonial-slide testimonial-slide-three">
 							<blockquote>"Jacob brings positive energy and professionalism to his work, so he's a pleasure to work with. He notes the details of what is being asked and then knocks it out right on schedule. Highly recommend for a quality collaboration."</blockquote>
 							<p class="testimonial-credit">Upwork Client testimonial <span>Post-Production Support</span></p>
+						</article>
+						<article class="testimonial-slide testimonial-slide-three">
+							<blockquote>"Jacob fixed the audio issues that other freelancers couldn't and then went the extra mile. Skills and excellence. That's what I was looking for - Jacob delivered."</blockquote>
+							<p class="testimonial-credit">Upwork Client testimonial <span>Dialog Cleanup</span></p>
 						</article>
 					</div>
 
