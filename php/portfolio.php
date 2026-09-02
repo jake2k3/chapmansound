@@ -88,6 +88,51 @@
 				<p class="experience-dates">May 2022 - Present</p>
 			</div>
 
+			<section class="portfolio-showcase" aria-labelledby="testimonial-title">
+				<div class="showcase-heading">
+					<p class="eyebrow">Client Feedback</p>
+					<h2 id="testimonial-title">Good work should sound like trust.</h2>
+				</div>
+
+				<div class="testimonial-carousel">
+					<input type="radio" name="testimonial" id="testimonial-one" checked>
+					<input type="radio" name="testimonial" id="testimonial-two">
+					<input type="radio" name="testimonial" id="testimonial-three">
+
+					<div class="testimonial-slides">
+						<article class="testimonial-slide testimonial-slide-one">
+							<blockquote>"Great experience working with Jacob - needed some sound treatment on a voiceover and he handled the job quickly with excellent communication, and the exact outcome I was looking for."</blockquote>
+							<p class="testimonial-credit">Upwork Client testimonial <span>Voiceover Editing</span></p>
+						</article>
+						<article class="testimonial-slide testimonial-slide-two">
+							<blockquote>"Jacob fixed the audio issues that other freelancers couldn't and then went the extra mile. Skills and excellence. That's what I was looking for - Jacob delivered."</blockquote>
+							<p class="testimonial-credit">Upwork Client testimonial <span>Dialog Cleanup</span></p>
+						</article>
+						<article class="testimonial-slide testimonial-slide-three">
+							<blockquote>"Jacob brings positive energy and professionalism to his work, so he's a pleasure to work with. He notes the details of what is being asked and then knocks it out right on schedule. Highly recommend for a quality collaboration."</blockquote>
+							<p class="testimonial-credit">Upwork Client testimonial <span>Post-Production Support</span></p>
+						</article>
+					</div>
+
+					<div class="carousel-controls" aria-label="Choose a testimonial">
+						<label for="testimonial-one"><span>1</span></label>
+						<label for="testimonial-two"><span>2</span></label>
+						<label for="testimonial-three"><span>3</span></label>
+					</div>
+				</div>
+
+				<div class="audio-feature">
+					<div>
+						<p class="eyebrow">Example of Work (Testimonial #1)</p>
+						<h3>From Testimonial #1</h3>
+					</div>
+					<audio controls preload="metadata">
+						<source src="audio/youveBeenLiedTo.wav" type="audio/mpeg">
+						Your browser does not support the audio player.
+					</audio>
+				</div>
+			</section>
+
 			<div class="experience-body">
 					<h3 class="subheader">The Camp at MidCity, Huntsville, AL</h3>
 					<img src='images/camplogo.png' alt="Logo of The Camp at MidCity" class="logo-camp">
