@@ -50,37 +50,6 @@
 		<section class="transbox-header" >
 			<h1 class="page-title">Professional Portfolio</h1>
 		</section>	
-
-		<section class="transbox">
-			<h2 class="section-title">Training and Certifications</h2>
-			
-			<div class="badge-grid">
-				<a href="docs/extronControlPro_certification.pdf" target="_blank">
-					<img src="images/extronControlPro_badge.png" alt="Extron Certified Control Professional" class="badge-item badge-rect">
-				</a>
-				<a href="docs/qsysLevel2Certification.pdf" target="_blank">
-					<img src="images/qsysLevel2_badge.png" alt="Q-SYS Level 2 Certified" class="badge-item badge-rect">
-				</a>
-				<a href="docs/qsysControl101Certification.pdf" target="_blank">
-					<img src="images/qsysControl101_badge.png" alt="Q-SYS Control 101 Certified" class="badge-item badge-rect">
-				</a>
-				<a href="docs/shureAcademyMXA920_Certification.pdf" target="_blank">
-					<img src="images/shureAcademyMXA920_badge.png" alt="Shure MXA920 Technical Enablement" class="badge-item badge-rect">
-				</a>
-				<a href="docs/shureAcademyNetworkDSP_Certification.pdf" target="_blank">
-					<img src="images/shureAcademyNetworkDSP_badge.png" alt="Networking for Shure DSP" class="badge-item badge-rect">
-				</a>
-				<a href="docs/biampTesiraSoftwareProgramming_Lvl02.pdf" target="_blank">
-					<img src="images/biamp_progBadgeLv02.png" alt="Biamp Tesira Software Programming Level 2" class="badge-item badge-sqr">
-				</a>
-				<a href="docs/DanteLevel1Certification2ndEd.pdf" target="_blank">
-					<img src="images/danteCert2eBadge_Lvl1.png" alt="Dante Level 1, Second Edition" class="badge-item badge-sqr">
-				</a>
-				<a href="docs/DanteLevel2Certification2ndEd.pdf" target="_blank">
-					<img src="images/danteCert2eBadge_Lvl2.png" alt="Dante Level 2, Second Edition" class="badge-item badge-sqr">
-				</a>
-			</div>
-		</section>
 				
 		<section class="transbox">
 			<div class="experience-header">
@@ -232,6 +201,38 @@
 				<a href='/php/images/fbcgraphics6.jpg' target="_blank"><img src="images/fbcgraphics6.jpg" alt="Wednesday Night Classes, Fall 2018" class="badge-item thumb-rect"></a> 
 			</div>
 		</section>
+
+		<section class="transbox">
+			<h2 class="section-title">Training and Certifications</h2>
+			
+			<div class="badge-grid">
+				<a href="docs/extronControlPro_certification.pdf" target="_blank">
+					<img src="images/extronControlPro_badge.png" alt="Extron Certified Control Professional" class="badge-item badge-rect">
+				</a>
+				<a href="docs/qsysLevel2Certification.pdf" target="_blank">
+					<img src="images/qsysLevel2_badge.png" alt="Q-SYS Level 2 Certified" class="badge-item badge-rect">
+				</a>
+				<a href="docs/qsysControl101Certification.pdf" target="_blank">
+					<img src="images/qsysControl101_badge.png" alt="Q-SYS Control 101 Certified" class="badge-item badge-rect">
+				</a>
+				<a href="docs/shureAcademyMXA920_Certification.pdf" target="_blank">
+					<img src="images/shureAcademyMXA920_badge.png" alt="Shure MXA920 Technical Enablement" class="badge-item badge-rect">
+				</a>
+				<a href="docs/shureAcademyNetworkDSP_Certification.pdf" target="_blank">
+					<img src="images/shureAcademyNetworkDSP_badge.png" alt="Networking for Shure DSP" class="badge-item badge-rect">
+				</a>
+				<a href="docs/biampTesiraSoftwareProgramming_Lvl02.pdf" target="_blank">
+					<img src="images/biamp_progBadgeLv02.png" alt="Biamp Tesira Software Programming Level 2" class="badge-item badge-sqr">
+				</a>
+				<a href="docs/DanteLevel1Certification2ndEd.pdf" target="_blank">
+					<img src="images/danteCert2eBadge_Lvl1.png" alt="Dante Level 1, Second Edition" class="badge-item badge-sqr">
+				</a>
+				<a href="docs/DanteLevel2Certification2ndEd.pdf" target="_blank">
+					<img src="images/danteCert2eBadge_Lvl2.png" alt="Dante Level 2, Second Edition" class="badge-item badge-sqr">
+				</a>
+			</div>
+		</section>
+
 		<section class="transbox">
 			<div class="photo-caption">
 				And in case you were wondering, yes! I designed and coded this webpage from the ground-up, with a bit of help from my dad (and some fantastic YouTube lessons).
