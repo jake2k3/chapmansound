@@ -500,7 +500,7 @@ a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none
 	}
 	
 	.portfolio-showcase {
-		margin: 0rem auto 1rem;
+		width: min(960px, calc(100% - 0.5rem));
 	}
 
 	.experience-dates{
