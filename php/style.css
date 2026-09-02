@@ -314,6 +314,21 @@ body{
 	display: block;
 }
 
+#video-one:checked ~ .testimonial-slides .video-slide-one,
+#video-two:checked ~ .testimonial-slides .video-slide-two,
+#worship-video-one:checked ~ .testimonial-slides .video-slide-one,
+#worship-video-two:checked ~ .testimonial-slides .video-slide-two {
+	display: block;
+}
+
+.video-slide {
+	padding: 1.5rem 3rem;
+}
+
+.video-slide .video-wrapper {
+	margin: 0 auto;
+}
+
 .carousel-controls {
 	display: flex;
 	border-top: 1px solid rgba(255, 255, 255, 0.15);
@@ -350,6 +365,13 @@ body{
 #testimonial-one:checked ~ .carousel-controls label[for='testimonial-one'],
 #testimonial-two:checked ~ .carousel-controls label[for='testimonial-two'],
 #testimonial-three:checked ~ .carousel-controls label[for='testimonial-three'] {
+	color: #e4b45b;
+}
+
+#video-one:checked ~ .carousel-controls label[for='video-one'],
+#video-two:checked ~ .carousel-controls label[for='video-two'],
+#worship-video-one:checked ~ .carousel-controls label[for='worship-video-one'],
+#worship-video-two:checked ~ .carousel-controls label[for='worship-video-two'] {
 	color: #e4b45b;
 }
 

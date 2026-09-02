@@ -101,7 +101,7 @@
 					<div class="testimonial-slides">
 						<article class="testimonial-slide testimonial-slide-one">
 							<blockquote>"Great experience working with Jacob - needed some sound treatment on a voiceover and he handled the job quickly with excellent communication, and the exact outcome I was looking for."</blockquote>
-							<p class="testimonial-credit">Upwork Client testimonial <span>Voiceover Editing</span></p>
+							<p class="testimonial-credit">Upwork Client testimonial <span>Voiceover Treatment</span></p>
 						</article>
 						<article class="testimonial-slide testimonial-slide-two">
 							<blockquote>"Jacob brings positive energy and professionalism to his work, so he's a pleasure to work with. He notes the details of what is being asked and then knocks it out right on schedule. Highly recommend for a quality collaboration."</blockquote>
@@ -123,7 +123,7 @@
 				<div class="audio-feature">
 					<div>
 						<p class="eyebrow">Example of Work</p>
-						<h3>Testimonial #1: Voiceover Editing</h3>
+						<h3>Testimonial #1: Voiceover Treatment</h3>
 						<p class="experience-body">Edited in Adobe Audition.</p>
 					</div>
 					<audio controls preload="metadata">
@@ -134,9 +134,9 @@
 			</section>
 
 			<div class="experience-body">
-					<h3 class="subheader">The Camp at MidCity, Huntsville, AL</h3>
+					<h3 class="subheader">FoH Audio Engineer - The Camp at MidCity, Huntsville, AL</h3>
 					<img src='images/camplogo.png' alt="Logo of The Camp at MidCity" class="logo-camp">
-				<p>As Front of House Engineer:<br>
+				<p>
 					Camacho, Camp to Amp Festival 2025 Camp Stage (Free Candy, Pat Jamar, Shane Davis Group, Maitland Conservatory), Rockin' Dopsie and the Zydeco Twisters, Hoedown at the Camp 2024, Buck'd Up, Paul McDonald and the Mourning Doves, Camp to Amp Festival 2023 Blast Stage (N.E.I.G.H.B.O.R.S., Hunnivega, Moon Tree, Treetop and the Gifted, Slyvia Dean), The Dead Deads, Soul Brass Band, Lamont Landers Band, Funky Lampshades, MidCity Holiday Market 2022, The Camp Counselors House Band, Carver Commodore, Rob Aldridge & the Proponents</p>
 			</div>
 			<div class="experience-body">
@@ -151,21 +151,37 @@
 
 		<section class="transbox">
 			<div class="experience-header">
-				<h2 class="section-title">Director of Audio-Visual Ministry</h2>
+				<h2 class="section-title">Director of Audio-Visual Ministry - FBC Decatur</h2>
 				<p class="experience-dates">July 2016 - July 2021</p>
 			</div>
 			<div class="experience-body"> 
 				<p>For five years, I served as the Director of Audio-Visual Ministry at <a href="https://www.fbcdecatur.org" target="_blank">First Baptist Church, Decatur Alabama</a>,where I directed a small team of faithful volunteers and managed all of the audio, video, and lighting systems at the church. I was blessed to see the volunteer team, First Productions, double in size during my time as Director. We were able to fill new roles as the A/V ministry grew, as well as establish a monthly rotation schedule for Sunday morning volunteers. I also had the chance to mentor a couple of students who showed an interest in the technical side of things, and watched as they became ministry leaders in their own right.</p>
 				<p>Christmas on Church Street is a beautiful and beloved tradition. With much of our congregation worshipping from home in 2020, we had to get creative in the production of our Christmas choir anthems. Under the leadership and vision of Matt Rouse, Minister of Music, I filmed, mixed, and produced three "virtual" choir anthems. Many hours of planning and editing went into this endeavour, with pre-production beginning early in the fall. I'm proud of how the final videos turned out, and I'd like to share a couple of them with you below.</p>
 			</div>
-			<div class="video-wrapper">
-				<script src="https://player.vimeo.com/api/player.js"></script>
-				<iframe src="https://player.vimeo.com/video/487021032?h=9284f4ae4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player" title="FBC Decatur Virtual Choir & Orchestra - God Rest Ye Merry Gentlemen">
-				</iframe>
-			</div>
-			<div class="video-wrapper">
-				<iframe src="https://player.vimeo.com/video/489951901?h=bb70d5eb9e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player"  title="FBC Decatur Virtual Choir & Orchestra - Carol of the Bells">
-				</iframe>
+			<div class="testimonial-carousel video-carousel">
+				<input type="radio" name="video" id="video-one" checked>
+				<input type="radio" name="video" id="video-two">
+
+				<div class="testimonial-slides">
+					<article class="testimonial-slide video-slide video-slide-one">
+						<div class="video-wrapper">
+							<script src="https://player.vimeo.com/api/player.js"></script>
+							<iframe src="https://player.vimeo.com/video/487021032?h=9284f4ae4f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player" title="FBC Decatur Virtual Choir & Orchestra - God Rest Ye Merry Gentlemen">
+							</iframe>
+						</div>
+					</article>
+					<article class="testimonial-slide video-slide video-slide-two">
+						<div class="video-wrapper">
+							<iframe src="https://player.vimeo.com/video/489951901?h=bb70d5eb9e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="video-player" title="FBC Decatur Virtual Choir & Orchestra - Carol of the Bells">
+							</iframe>
+						</div>
+					</article>
+				</div>
+
+				<div class="carousel-controls" aria-label="Choose a video">
+					<label for="video-one"><span>1</span></label>
+					<label for="video-two"><span>2</span></label>
+				</div>
 			</div>
 			<div class="experience-body"> 	
 				<p>	One of the larger projects I helmed was the creation of a permanent broadcast studio. From this room, multi-track audio of Sunday morning services are re-mixed for livestreaming to Facebook and <a href="https://www.youtube.com/FBCDecaturAL" target="_blank">YouTube</a>. We designed and implemented the first iteration 		of this studio in the summer of 2019, allowing the church to pivot to broadcast-only services in March 2020 without skipping a weekly service.
@@ -176,20 +192,31 @@
 				<p class="photo-caption">FBC Decatur Broadcast Studio, 2019.</p>
 				<p>My job description changed overnight when the stay-at-home orders went into effect. Instead of coordinating a team of volunteers for live worship services, I became a one-man crew producing pre-recorded worship services each week. The sanctuary platform became an ad-hoc recording studio (with musicians and vocalists socially distanced, of course). The DiGiCo SD8, my familiar live mixing console, sat dormant; the broadcast studio became my daily workspace. Below are a few highlights from those not-so-very-normal days.</p>
 			</div>
-			<div class="video-wrapper">
-				<iframe class="video-player" src="https://www.youtube.com/embed/G4ZQ-bCVFuo" title="A Mighty Fortress Is Our God — Solo Pipe Organ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-				</iframe>
-			</div>
-			<div>
-				<p class="photo-caption">AKG C414B-ULS, Stereo matched pair</p>
-			</div>
+			<div class="testimonial-carousel video-carousel">
+				<input type="radio" name="worship-video" id="worship-video-one" checked>
+				<input type="radio" name="worship-video" id="worship-video-two">
 
-			<div class="video-wrapper">
-				<iframe class="video-player" src="https://www.youtube.com/embed/zM0fG4VHKG8" title="Come Thou Fount of Every Blessing — FBC Decatur Worship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-				</iframe>
-			</div>
-			<div>
-				<p class="photo-caption">Ear Trumpet Labs Myrtle Condenser Microphone</p>
+				<div class="testimonial-slides">
+					<article class="testimonial-slide video-slide video-slide-one">
+						<div class="video-wrapper">
+							<iframe class="video-player" src="https://www.youtube.com/embed/G4ZQ-bCVFuo" title="A Mighty Fortress Is Our God — Solo Pipe Organ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+							</iframe>
+						</div>
+						<p class="testimonial-credit">AKG C414B-ULS, Stereo matched pair</p>
+					</article>
+					<article class="testimonial-slide video-slide video-slide-two">
+						<div class="video-wrapper">
+							<iframe class="video-player" src="https://www.youtube.com/embed/zM0fG4VHKG8" title="Come Thou Fount of Every Blessing — FBC Decatur Worship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+							</iframe>
+						</div>
+						<p class="testimonial-credit">Ear Trumpet Labs Myrtle Condenser Microphone</p>
+					</article>
+				</div>
+
+				<div class="carousel-controls" aria-label="Choose a worship video">
+					<label for="worship-video-one"><span>1</span></label>
+					<label for="worship-video-two"><span>2</span></label>
+				</div>
 			</div>
 			<div class="experience-body">
 				<p>As Director of Audio-Visual Ministry I wore a lot of hats, including regular graphic design work! I took on many one-off projects through the years, most often in the form of announcement slides for digital signage around the church and the main sanctuary screens during worship. Occasionally, these slides would be requested with a particular style or aesthetic in mind, but more often than not I was trusted with full creative freedom over them. Click on the thumbnails below to see a few of my favorite designs over the years.</p>
