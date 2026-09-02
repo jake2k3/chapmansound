@@ -124,7 +124,7 @@
 					<div>
 						<p class="eyebrow">Example of Work</p>
 						<h3>Testimonial #1: Voiceover Treatment</h3>
-						<p class="experience-body">Edited in Adobe Audition.</p>
+						<p class="experience-body">Edited in Adobe Audition</p>
 					</div>
 					<audio controls preload="metadata">
 						<source src="audio/youveBeenLiedTo.mp3" type="audio/mpeg">
@@ -202,14 +202,14 @@
 							<iframe class="video-player" src="https://www.youtube.com/embed/G4ZQ-bCVFuo" title="A Mighty Fortress Is Our God — Solo Pipe Organ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 							</iframe>
 						</div>
-						<p class="testimonial-credit">AKG C414B-ULS, Stereo matched pair</p>
+						<p class="testimonial-credit">Recorded with a stereo matched pair of AKG C414B-ULS condenser microphones</p>
 					</article>
 					<article class="testimonial-slide video-slide video-slide-two">
 						<div class="video-wrapper">
 							<iframe class="video-player" src="https://www.youtube.com/embed/zM0fG4VHKG8" title="Come Thou Fount of Every Blessing — FBC Decatur Worship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 							</iframe>
 						</div>
-						<p class="testimonial-credit">Ear Trumpet Labs Myrtle Condenser Microphone</p>
+						<p class="testimonial-credit">Recorded with an Ear Trumpet Labs Myrtle condenser microphone</p>
 					</article>
 				</div>
 
