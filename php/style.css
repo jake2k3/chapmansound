@@ -416,8 +416,8 @@ a:active  {color:white; background-color:transparent; text-decoration:line-throu
 
 a.nav:link    {color:white; background-color:transparent; text-decoration:none}
 a.nav:visited {color:white; background-color:transparent; text-decoration:none}
-a.nav:hover   {color:#ffffb3; background-color:transparent; text-decoration:none}
-a.nav:active  {color:#ffffb3; background-color:transparent; text-decoration:none}
+a.nav:hover   {color:#e4b45b; background-color:transparent; text-decoration:none}
+a.nav:active  {color:#e4b45b; background-color:transparent; text-decoration:none}
 
 .transbox2 {
 	background: rgba(0, 0, 0, 0.3)
