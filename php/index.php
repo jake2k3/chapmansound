@@ -48,8 +48,8 @@
 		
 		<div class="links-grid">
 			<a href=mailto:jacob@chapmansound.com target='_blank' class="big-links">Contact Me</a>
-			<a href='/php/portfolio.php' class="big-links">Portfolio</a>
-			<a href='docs/chapmanResume20260725.pdf' target='_blank' class="big-links">My Résumé</a>
+			<a href='/php/portfolio.php' class="big-links">My Portfolio</a>
+			<a href='docs/jacobChapmanResume2026fall.pdf' target='_blank' class="big-links">My Résumé</a>
 		</div>
 		
 		<div class="logos-grid">
