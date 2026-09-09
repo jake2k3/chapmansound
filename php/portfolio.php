@@ -50,7 +50,7 @@
 		<section class="transbox-header" >
 			<h1 class="page-title">Professional Portfolio</h1>
 			<div class="experience-body">
-				Hello! Selected works below include: freelance post-production work I've done in Adobe Premiere, Adobe Audition, and Cockos Reaper; event production credits (from stagehand to front-of-house engineering); and worship video, podcast, and graphic design examples from my time at FBC Decatur.
+				Hello! Selected works below include: freelance post-production work I've done in Adobe Premiere, Adobe Audition, and Cockos Reaper; event production credits (from stagehand to front-of-house engineering); and worship video, podcast, and graphic design examples from my time at FBC Decatur. Industry certifications are included at the bottom of this page. Please don't hesitate to reach out if you have any questions or would like to talk about a project. Thanks for dropping by!
 			</div>	
 		</section>	
 
