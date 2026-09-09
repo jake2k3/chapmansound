@@ -49,8 +49,11 @@
 	<main class="page-content">
 		<section class="transbox-header" >
 			<h1 class="page-title">Professional Portfolio</h1>
+			<div class="experience-body">
+				Hello! Selected works below include: freelance post-production work I've done in Adobe Premiere, Adobe Audition, and Cockos Reaper; event production credits (from stagehand to front-of-house engineering); and worship video, podcast, and graphic design examples from my time at FBC Decatur.
+			</div>	
 		</section>	
-				
+
 		<section class="transbox">
 			<div class="experience-header">
 				<h2 class="section-title">Freelance Work</h2>
