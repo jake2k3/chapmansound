@@ -224,6 +224,9 @@
 				<a href="docs/shureAcademyNetworkDSP_Certification.pdf" target="_blank">
 					<img src="images/shureAcademyNetworkDSP_badge.png" alt="Networking for Shure DSP" class="badge-item badge-rect">
 				</a>
+				<a href="https://learn.microsoft.com/api/credentials/share/en-us/JacobChapman-1446/480F5F016D10D061" target="_blank">
+					<img src="images/microsoftCertifiedAssociate_badge.svg" alt="Microsoft MS-721 Certified: Collaboration Communications Systems Engineer Associate" class="badge-item badge-sqr">
+				</a>
 				<a href="docs/biampTesiraSoftwareProgramming_Lvl02.pdf" target="_blank">
 					<img src="images/biamp_progBadgeLv02.png" alt="Biamp Tesira Software Programming Level 2" class="badge-item badge-sqr">
 				</a>
